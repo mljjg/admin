@@ -5,7 +5,7 @@ Installation
 
 
 ```bash
-
+composer require jjg/admin
 ```
 
 
